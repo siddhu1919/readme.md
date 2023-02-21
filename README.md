@@ -2,7 +2,7 @@
 
 *** AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 
-https://github.com/siddhu1919/RESOURCES_DATA/blob/main/Poster.mp4?raw=true
+[![Watch the video](https://github.com/siddhu1919/RESOURCES_DATA/blob/main/Poster.mp4?raw=true)
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
 
