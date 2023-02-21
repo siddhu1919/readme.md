@@ -4,7 +4,7 @@
 
 <video src="https://github.com/siddhu1919/RESOURCES_DATA/blob/main/Poster.mp4"></video>
 
-Follow me on LinkedIn : [![](https://www.linkedin.com/in/siddharth-g-singh-46b610201)
+Follow me on LinkedIn : [![]("https://www.linkedin.com/in/siddharth-g-singh-46b610201")
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 
